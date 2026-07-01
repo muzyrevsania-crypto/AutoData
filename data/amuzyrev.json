@@ -1,24 +1,15 @@
 {
-  "timestamp": "2026-07-01T16:18:57.766524",
+  "timestamp": "2026-07-01T16:26:18.437637",
   "user": "amuzyrev",
   "tasks": [
     {
-      "created": "2026-07-01T16:14:13.002115",
+      "created": "2026-07-01T16:18:51.759086",
       "current_user": "amuzyrev",
-      "last_modified": "2026-07-01T16:14:16.746234",
+      "last_modified": "2026-07-01T16:18:54.238755",
       "result": "Не выполнено",
-      "task": "1",
+      "task": "2",
       "user": "amuzyrev",
       "user_file": "amuzyrev"
-    },
-    {
-      "user": "amuzyrev",
-      "user_file": "amuzyrev",
-      "current_user": "amuzyrev",
-      "task": "2",
-      "result": "Не выполнено",
-      "created": "2026-07-01T16:18:51.759086",
-      "last_modified": "2026-07-01T16:18:54.238755"
     }
   ]
 }
