@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T16:50:05.211130",
+  "timestamp": "2026-07-01T16:50:43.635666",
   "user": "amuzyrev",
   "tasks": [
     {
@@ -10,6 +10,15 @@
       "task": "Руководитель службы безопасности СЦ\nOzon Fulfillment\n...\nСЦ Волхонское\nЮридическое лицо\nИнтернет решения с 12.05.2021\nДата выхода в Ozon\n12.05.2021\nМоя работа в Ozon\nОбщая рассылка СБ объекта - SB_LC_Volhonskoe@ozon.ru\nОбщая почта службы безопасности СЦ СЗФО - sb_sc_szfo@ozon.ru\nОбщая почта службы безопасности региона СЗФО (ФФ+логистика) - securitynorthwest@ozon.ru",
       "user": "amuzyrev",
       "user_file": "amuzyrev"
+    },
+    {
+      "user": "amuzyrev",
+      "user_file": "amuzyrev",
+      "current_user": "amuzyrev",
+      "task": "5",
+      "result": "Не выполнено",
+      "created": "2026-07-01T16:50:40.635733",
+      "last_modified": "2026-07-01T16:50:43.547860"
     }
   ]
 }
