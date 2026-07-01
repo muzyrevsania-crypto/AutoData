@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-01T14:48:15.162728",
-  "user": "user",
+  "timestamp": "2026-07-01T14:53:41.969678",
+  "user": "amuzyrev",
   "tasks": [
     {
-      "user": "user",
+      "result": "Выполнено",
       "task": "1",
-      "result": "Не выполнено"
+      "user": "user"
     }
   ]
 }
