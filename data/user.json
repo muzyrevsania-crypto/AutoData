@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-07-01T16:18:56.974786",
+  "user": "user",
+  "tasks": [
+    {
+      "user": "user",
+      "user_file": "user",
+      "current_user": "user",
+      "task": "3",
+      "result": "Не выполнено",
+      "created": "2026-07-01T16:18:54.294950",
+      "last_modified": "2026-07-01T16:18:56.846871"
+    }
+  ]
+}
