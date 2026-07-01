@@ -1,14 +1,5 @@
 {
-  "timestamp": "2026-07-01T15:22:40.924289",
-  "user": "amuzyrev",
-  "tasks": [
-    {
-      "id": 1,
-      "user": "amuzyrev",
-      "task": "23456",
-      "result": "Не выполнено",
-      "created": "2026-07-01T15:22:35.556116",
-      "last_modified": "2026-07-01T15:22:39.723732"
-    }
-  ]
+  "timestamp": "2026-07-01T15:24:11.957999",
+  "user": "user",
+  "tasks": []
 }
