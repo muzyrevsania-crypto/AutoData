@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-01T15:13:00.777133",
-  "user": "user",
+  "timestamp": "2026-07-01T15:13:10.569316",
+  "user": "amuzyrev",
   "tasks": [
     {
       "result": "Выполнено",
@@ -18,8 +18,8 @@
       "user": "user"
     },
     {
-      "user": "user",
-      "task": "12345",
+      "user": "amuzyrev",
+      "task": "23456",
       "result": "Не выполнено"
     }
   ]
