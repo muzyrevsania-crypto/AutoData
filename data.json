@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T15:37:53.142950",
+  "timestamp": "2026-07-01T15:39:54.486670",
   "user": "system",
   "tasks": [
     {
@@ -27,6 +27,24 @@
       "result": "Не выполнено",
       "created": "2026-07-01T15:37:49.540883",
       "last_modified": "2026-07-01T15:37:52.517901",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "user": "amuzyrev",
+      "task": "",
+      "result": "Не выполнено",
+      "created": "2026-07-01T15:39:51.271103",
+      "last_modified": "2026-07-01T15:39:51.271111",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "user": "amuzyrev",
+      "task": "vbxcv",
+      "result": "Не выполнено",
+      "created": "2026-07-01T15:39:51.271103",
+      "last_modified": "2026-07-01T15:39:53.895262",
       "status": "active"
     }
   ]
