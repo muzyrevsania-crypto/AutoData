@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-01T15:29:50.412258",
-  "user": "user",
+  "timestamp": "2026-07-01T15:37:53.142950",
+  "user": "system",
   "tasks": [
     {
       "id": 1,
@@ -9,6 +9,24 @@
       "result": "Не выполнено",
       "created": "2026-07-01T15:29:46.836339",
       "last_modified": "2026-07-01T15:29:50.316247",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "user": "user",
+      "task": "",
+      "result": "Не выполнено",
+      "created": "2026-07-01T15:37:49.540883",
+      "last_modified": "2026-07-01T15:37:49.540892",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "user": "user",
+      "task": "vcxxbcx",
+      "result": "Не выполнено",
+      "created": "2026-07-01T15:37:49.540883",
+      "last_modified": "2026-07-01T15:37:52.517901",
       "status": "active"
     }
   ]
