@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-01T15:13:10.569316",
-  "user": "amuzyrev",
+  "timestamp": "2026-07-01T15:21:10.594453",
+  "user": "user",
   "tasks": [
     {
       "result": "Выполнено",
@@ -18,9 +18,17 @@
       "user": "user"
     },
     {
-      "user": "amuzyrev",
+      "result": "Не выполнено",
       "task": "23456",
-      "result": "Не выполнено"
+      "user": "amuzyrev"
+    },
+    {
+      "id": 1,
+      "user": "user",
+      "task": "sagagbstnth",
+      "result": "Не выполнено",
+      "created": "2026-07-01T15:21:05.402493",
+      "last_modified": "2026-07-01T15:21:08.498014"
     }
   ]
 }
