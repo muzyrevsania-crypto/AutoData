@@ -13,5 +13,10 @@
     "password": "4edf5e05152ad6f69fd46166a4bf6696bebd1f3658909ffd146a5d47f864791a",
     "role": "user",
     "created": "2026-07-01T16:28:32.911668"
+  },
+  "user1": {
+    "password": "e606e38b0d8c19b24cf0ee3808183162ea7cd63ff7912dbb22b5e803286b4446",
+    "role": "user",
+    "created": "2026-07-01T16:41:28.819394"
   }
 }
