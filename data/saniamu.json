@@ -1,7 +1,20 @@
 {
-  "timestamp": "2026-07-02T15:27:48.431096",
+  "timestamp": "2026-07-02T15:45:59.720892",
   "user": "saniamu",
   "tasks": [
+    {
+      "created": "2026-07-02T13:58:52.459561",
+      "current_user": "saniamu",
+      "deadline": "2026-07-09T18:00:00",
+      "deadline_new": "2026-07-10T18:00:00",
+      "delegate": "amuzyrev",
+      "id": "e8d03562-5a62-403a-8d33-2d50f3c39dfd",
+      "last_modified": "2026-07-02T15:45:59.648606",
+      "result": 1,
+      "task": "3",
+      "user": "saniamu",
+      "user_file": "saniamu"
+    },
     {
       "created": "2026-07-02T11:01:54.527083",
       "current_user": "saniamu",
@@ -12,20 +25,8 @@
       "result": 3,
       "task": "2",
       "user": "saniamu",
-      "user_file": "saniamu"
-    },
-    {
-      "created": "2026-07-02T13:58:52.459561",
-      "current_user": "saniamu",
-      "deadline": "2026-07-09T18:00:00",
-      "delegate": "amuzyrev",
-      "id": "e8d03562-5a62-403a-8d33-2d50f3c39dfd",
-      "last_modified": "2026-07-02T15:41:41.745274",
-      "result": 4,
-      "task": "3",
-      "user": "saniamu",
       "user_file": "saniamu",
-      "deadline_new": "2026-07-10T18:00:00"
+      "deadline_new": ""
     }
   ]
 }
