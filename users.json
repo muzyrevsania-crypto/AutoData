@@ -1,0 +1,22 @@
+{
+  "admin": {
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "created": "2026-07-02T08:32:40.219864",
+    "last_name": "Администратор",
+    "first_name": "Системный",
+    "middle_name": "",
+    "email": "admin@example.com",
+    "phone": "+7-999-999-99-99"
+  },
+  "user": {
+    "password": "e606e38b0d8c19b24cf0ee3808183162ea7cd63ff7912dbb22b5e803286b4446",
+    "role": "user",
+    "created": "2026-07-02T08:32:40.219873",
+    "last_name": "Пользователь",
+    "first_name": "Тестовый",
+    "middle_name": "",
+    "email": "user@example.com",
+    "phone": "+7-888-888-88-88"
+  }
+}
