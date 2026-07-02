@@ -18,5 +18,15 @@
     "middle_name": "",
     "email": "user@example.com",
     "phone": "+7-888-888-88-88"
+  },
+  "amuzyrev": {
+    "password": "4edf5e05152ad6f69fd46166a4bf6696bebd1f3658909ffd146a5d47f864791a",
+    "role": "user",
+    "created": "2026-07-02T08:35:00.206640",
+    "last_name": "Музырёв",
+    "first_name": "Александр",
+    "middle_name": "Сергеевич",
+    "email": "amuzyrev@ozon.ru",
+    "phone": "+7-921-847-99-07"
   }
 }
