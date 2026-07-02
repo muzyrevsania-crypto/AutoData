@@ -8,7 +8,7 @@
       "deadline": "2026-07-02T18:00:00",
       "delegate": "amuzyrev",
       "id": "61238bf4-bd5f-4859-a220-c484b2a72f7c",
-      "last_modified": "2026-07-02T13:49:56.647650",
+      "last_modified": "2026-07-02T14:04:32.015928",
       "result": 3,
       "task": "2",
       "user": "saniamu",
@@ -21,10 +21,10 @@
       "current_user": "saniamu",
       "delegate": "amuzyrev",
       "task": "3",
-      "result": 1,
+      "result": 4,
       "deadline": "",
       "created": "2026-07-02T13:58:52.459561",
-      "last_modified": "2026-07-02T13:58:58.203132"
+      "last_modified": "2026-07-02T14:04:32.015897"
     }
   ]
 }
