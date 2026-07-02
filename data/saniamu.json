@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-07-02T10:36:01.562355",
+  "user": "saniamu",
+  "tasks": [
+    {
+      "user": "saniamu",
+      "user_file": "saniamu",
+      "current_user": "saniamu",
+      "delegate": "user",
+      "task": "sdgfsxhtgdrbh",
+      "result": "Не выполнено",
+      "created": "2026-07-02T10:35:51.562109",
+      "last_modified": "2026-07-02T10:36:01.466256"
+    },
+    {
+      "user": "saniamu",
+      "user_file": "saniamu",
+      "current_user": "saniamu",
+      "delegate": "",
+      "task": "",
+      "result": "Не выполнено",
+      "created": "2026-07-02T10:35:53.610125",
+      "last_modified": "2026-07-02T10:35:53.615183"
+    }
+  ]
+}
