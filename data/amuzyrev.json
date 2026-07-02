@@ -1,5 +1,17 @@
 {
-  "timestamp": "2026-07-02T10:51:01.547672",
+  "timestamp": "2026-07-02T10:51:21.784621",
   "user": "amuzyrev",
-  "tasks": []
+  "tasks": [
+    {
+      "id": "30e5e343-0872-4bbb-962c-8a0f78530c4a",
+      "user": "amuzyrev",
+      "user_file": "amuzyrev",
+      "current_user": "amuzyrev",
+      "delegate": "saniamu",
+      "task": "1",
+      "result": "Не выполнено",
+      "created": "2026-07-02T10:51:18.128568",
+      "last_modified": "2026-07-02T10:51:21.704573"
+    }
+  ]
 }
