@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-07-02T16:10:49.596730",
+  "timestamp": "2026-07-02T16:12:02.206985",
   "user": "admin",
   "tasks": [
     {
-      "id": "6df66033-cd30-4bb7-8216-58ec8cab80bb",
-      "user": "admin",
-      "user_file": "admin",
-      "current_user": "admin",
-      "delegate": "amuzyrev",
-      "task": "fsdgvfzb",
-      "result": 4,
-      "deadline": "2026-07-04T18:00:00",
-      "deadline_new": "2026-07-05T16:45:00",
       "created": "2026-07-02T16:10:39.466126",
-      "last_modified": "2026-07-02T16:11:49.409671"
+      "current_user": "admin",
+      "deadline": "2026-07-04T18:00:00",
+      "deadline_new": "",
+      "delegate": "amuzyrev",
+      "id": "6df66033-cd30-4bb7-8216-58ec8cab80bb",
+      "last_modified": "2026-07-02T16:12:02.118633",
+      "result": 6,
+      "task": "fsdgvfzb",
+      "user": "admin",
+      "user_file": "admin"
     }
   ]
 }
