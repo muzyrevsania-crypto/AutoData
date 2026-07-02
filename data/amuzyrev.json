@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-07-02T13:28:44.070354",
+  "timestamp": "2026-07-02T13:31:56.295993",
   "user": "amuzyrev",
   "tasks": [
     {
       "created": "2026-07-02T10:51:18.128568",
       "current_user": "amuzyrev",
+      "deadline": "2026-07-03T18:00:00",
       "delegate": "saniamu",
       "id": "30e5e343-0872-4bbb-962c-8a0f78530c4a",
-      "last_modified": "2026-07-02T13:16:30.619925",
+      "last_modified": "2026-07-02T13:31:54.376882",
       "result": 3,
       "task": "1",
       "user": "amuzyrev",
-      "user_file": "amuzyrev",
-      "deadline": ""
+      "user_file": "amuzyrev"
     }
   ]
 }
