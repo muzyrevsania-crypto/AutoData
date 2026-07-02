@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T15:32:33.170458",
+  "timestamp": "2026-07-02T15:41:40.133620",
   "user": "amuzyrev",
   "tasks": [
     {
@@ -12,7 +12,8 @@
       "result": 3,
       "task": "1",
       "user": "amuzyrev",
-      "user_file": "amuzyrev"
+      "user_file": "amuzyrev",
+      "deadline_new": ""
     }
   ]
 }
