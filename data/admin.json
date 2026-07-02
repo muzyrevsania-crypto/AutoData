@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-07-02T16:10:49.596730",
+  "user": "admin",
+  "tasks": [
+    {
+      "id": "6df66033-cd30-4bb7-8216-58ec8cab80bb",
+      "user": "admin",
+      "user_file": "admin",
+      "current_user": "admin",
+      "delegate": "amuzyrev",
+      "task": "fsdgvfzb",
+      "result": 1,
+      "deadline": "2026-07-04T18:00:00",
+      "deadline_new": "",
+      "created": "2026-07-02T16:10:39.466126",
+      "last_modified": "2026-07-02T16:10:47.828437"
+    }
+  ]
+}
