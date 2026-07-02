@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-02T10:51:21.784621",
+  "timestamp": "2026-07-02T11:12:18.355174",
   "user": "amuzyrev",
   "tasks": [
     {
-      "id": "30e5e343-0872-4bbb-962c-8a0f78530c4a",
-      "user": "amuzyrev",
-      "user_file": "amuzyrev",
+      "created": "2026-07-02T10:51:18.128568",
       "current_user": "amuzyrev",
       "delegate": "saniamu",
-      "task": "1",
+      "id": "30e5e343-0872-4bbb-962c-8a0f78530c4a",
+      "last_modified": "2026-07-02T11:12:18.274918",
       "result": "Не выполнено",
-      "created": "2026-07-02T10:51:18.128568",
-      "last_modified": "2026-07-02T10:51:21.704573"
+      "task": "1",
+      "user": "amuzyrev",
+      "user_file": "amuzyrev"
     }
   ]
 }
