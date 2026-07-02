@@ -8,7 +8,7 @@
       "deadline": "2026-07-02T18:00:00",
       "delegate": "amuzyrev",
       "id": "61238bf4-bd5f-4859-a220-c484b2a72f7c",
-      "last_modified": "2026-07-02T15:32:34.558395",
+      "last_modified": "2026-07-02T15:41:41.745237",
       "result": 3,
       "task": "2",
       "user": "saniamu",
@@ -20,11 +20,12 @@
       "deadline": "2026-07-09T18:00:00",
       "delegate": "amuzyrev",
       "id": "e8d03562-5a62-403a-8d33-2d50f3c39dfd",
-      "last_modified": "2026-07-02T15:32:34.558360",
-      "result": 1,
+      "last_modified": "2026-07-02T15:41:41.745274",
+      "result": 4,
       "task": "3",
       "user": "saniamu",
-      "user_file": "saniamu"
+      "user_file": "saniamu",
+      "deadline_new": "2026-07-10T18:00:00"
     }
   ]
 }
