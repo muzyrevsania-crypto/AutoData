@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T08:52:15.364419",
+  "timestamp": "2026-07-03T09:16:37.293702",
   "user": "saniamu",
   "tasks": [
     {
@@ -19,11 +19,11 @@
       "created": "2026-07-02T13:58:52.459561",
       "current_user": "saniamu",
       "deadline": "2026-07-14T18:00:00",
-      "deadline_new": "2026-07-10T18:00:00",
+      "deadline_new": "",
       "delegate": "amuzyrev",
       "id": "e8d03562-5a62-403a-8d33-2d50f3c39dfd",
-      "last_modified": "2026-07-03T09:16:24.027695",
-      "result": 4,
+      "last_modified": "2026-07-03T09:16:37.196892",
+      "result": 6,
       "task": "3",
       "user": "saniamu",
       "user_file": "saniamu"
