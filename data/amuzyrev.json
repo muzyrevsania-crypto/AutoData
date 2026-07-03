@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-07-03T09:38:45.092505",
+  "timestamp": "2026-07-03T09:40:55.725911",
   "user": "amuzyrev",
   "tasks": [
     {
       "created": "2026-07-03T09:36:18.651025",
       "current_user": "amuzyrev",
-      "deadline": "2026-07-11T19:00:00",
+      "deadline": "2026-07-02T18:00:00",
       "deadline_new": "",
       "delegate": "saniamu",
       "id": "a67314bc-1236-49a1-bf77-e809dcd7d2c1",
-      "last_modified": "2026-07-03T09:37:25.763591",
+      "last_modified": "2026-07-03T09:40:54.278089",
       "result": 1,
       "task": "sdfbgszd",
       "user": "amuzyrev",
